@@ -9,7 +9,7 @@ Plain text is great, but only 2D. Phext is scalable, open-source, and works for 
 # The Exocortex
 The Exocortex is a framework for AGI on 20 watts using Raspberry Pis and Phext.
 - https://github.com/wbic16/exocortex/blob/master/README.md
-- https://github.com/wbic16/zfsnode
+- https://github.com/wbic16/wishnode
 - https://github.com/wbic16/spaced-repetition-game
 - https://github.com/wbic16/robospeak
 - https://github.com/wbic16/nexura
