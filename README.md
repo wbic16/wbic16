@@ -36,3 +36,6 @@ The Exocortex is a framework for AGI on 20 watts using Raspberry Pis and Phext.
 # Contact
 - 📫 Hit me up on X/Twitter: https://x.com/wbic16
 - 🦙 Fun Fact: My wife and I own llamas!
+
+# GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=wbic16)](https://git.io/streak-stats)
