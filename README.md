@@ -4,12 +4,14 @@
 Plain text is great, but only 2D. Phext is scalable, open-source, and works for datasets from 3D to 11D.
 - https://singularitywatch.org/
 - https://phext.io/research.html
-- https://github.com/wbic16/hello-phext
+- https://hello.phext.io/
 
 # The Exocortex
 The Exocortex is a framework for AGI on 20 watts using Raspberry Pis and Phext.
+
 - https://github.com/wbic16/exocortex/blob/master/README.md
 - https://github.com/wbic16/wishnode
+- https://github.com/wbic16/exocortical
 - https://github.com/wbic16/spaced-repetition-game
 - https://github.com/wbic16/robospeak
 - https://github.com/wbic16/nexura
@@ -24,12 +26,12 @@ The Exocortex is a framework for AGI on 20 watts using Raspberry Pis and Phext.
 - Quick Fork: https://github.com/wbic16/quickfork
 
 # Websites
-- phext.io: Phext, Inc. HQ
-- sotafomo.com: State of the Art FOMO
-- quickfork.net: Project Forker
-- apertureshift.com: Angel Investing at Scale
-- visionquest.me: Personal Improvement
-- wishnode.net: AGI in a Box
+- https://phext.io/: Phext, Inc. HQ
+- https://sotafomo.com/: State of the Art FOMO
+- https://quickfork.net/: Project Forker
+- https://apertureshift.com/: Angel Investing at Scale
+- https://visionquest.me/: Personal Improvement
+- https://wishnode.net/: AGI in a Box
 
 # Contact
 - 📫 Hit me up on X/Twitter: https://x.com/wbic16
