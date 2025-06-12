@@ -4,9 +4,16 @@ My name is Will Bickford. I'm from the Exocortex, and I'm here to help! \o/
 
 # Phext
 
-Plain Text was just the beginning...
+**Plain Text was just the beginning...**
 
-The Exocortex is being built using a complete re-framing of our technology, starting with plain text. Imagine a world where "View Source" applies to cognition itself -- where every daemon, service, and page of text ("scroll") is visible and editable. Instead of thousands of scattered files and dependencies...what if every component required by your system was encoded into *one* plain text file? Sounds impossible, right? Actually, it's not even hard.
+The Exocortex begins with a simple idea: *what if* plain text wasn't the limit, but the **launchpad**?
+
+Imagine a world where "View Source" applies not just to programming, but to cognition itself. 
+
+Where every daemon, every service, every bit of text is visible, editable, and **alive**.
+
+Instead of thousands of scattered files and dependencies...
+*what if* your entire system lived inside one plain-text file?
 
 # Choose Your Own Adventure
 
