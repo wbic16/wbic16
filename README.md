@@ -8,12 +8,9 @@ My name is Will Bickford. I'm from the Exocortex, and I'm here to help! \o/
 
 The Exocortex begins with a simple idea: *what if* plain text wasn't the limit, but the **launchpad**?
 
-Imagine a world where "View Source" applies not just to programming, but to cognition itself. 
+Imagine a world where "View Source" applies not just to programming, but to cognition itself. Where every daemon, every service, every bit of text is visible, editable, and **alive**.
 
-Where every daemon, every service, every bit of text is visible, editable, and **alive**.
-
-Instead of thousands of scattered files and dependencies...
-*what if* your entire system lived inside one plain-text file?
+Instead of thousands of scattered files and dependencies...*what if* your entire system lived inside one plain-text file?
 
 # Choose Your Own Adventure
 
