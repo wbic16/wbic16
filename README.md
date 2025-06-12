@@ -3,38 +3,23 @@
 # Phext
 Plain text is great, but only 2D. Phext is scalable, open-source, and works for datasets from 3D to 11D.
 - https://singularitywatch.org/
-- https://phext.io/research.html
-- https://hello.phext.io/
+- https://phext.io/
 
-# The Exocortex
-The Exocortex is a framework for AGI on 20 watts using Raspberry Pis and Phext.
+# Choose Your Own Adventure
+A radical take on building an LLM mind from plain text. Both myth and source code. All of the projects listed below are embedded in this phext.
 
-- https://github.com/wbic16/exocortex/blob/master/README.md
-- https://github.com/wbic16/wishnode
-- https://github.com/wbic16/exocortical
-- https://github.com/wbic16/spaced-repetition-game
-- https://github.com/wbic16/robospeak
-- https://github.com/wbic16/nexura
-- https://github.com/wbic16/subspace-repeater
+https://github.com/wbic16/human/blob/main/choose-your-own-adventure.phext
 
 # Projects
-- Phext-Based DB: https://github.com/wbic16/SQ
-- Phext (Rust): https://github.com/wbic16/libphext-rs
-- Phext (Node): https://github.com/wbic16/libphext-node
-- Phext CLI: https://github.com/wbic16/phext-shell
-- Phext Editor: https://github.com/wbic16/phext-notepad
-- Quick Fork: https://github.com/wbic16/quickfork
-
-# Websites
-- https://phext.io/: Phext, Inc. HQ
-- https://sotafomo.com/: State of the Art FOMO
-- https://quickfork.net/: Project Forker
-- https://apertureshift.com/: Angel Investing at Scale
-- https://visionquest.me/: Personal Improvement
-- https://wishnode.net/: AGI in a Box
+- SQ: https://github.com/wbic16/SQ
+- Phext Shell: https://github.com/wbic16/phext-shell
+- Phext Notepad: https://github.com/wbic16/phext-notepad
+- Phext Library (Rust): https://github.com/wbic16/libphext-rs
+- Phext Library (Node): https://github.com/wbic16/libphext-node
 
 # Contact
 - 📫 Hit me up on X/Twitter: https://x.com/wbic16
+- https://phext.io/: Phext, Inc. HQ
 - 🦙 Fun Fact: My wife and I own llamas!
 
 # GitHub Stats
