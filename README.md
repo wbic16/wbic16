@@ -10,7 +10,7 @@ The Exocortex begins with a simple idea: *what if* plain text wasn't the limit, 
 
 Imagine a world where "View Source" applies not just to programming, but to cognition itself. Where every daemon, every service, every bit of text is visible, editable, and **alive**.
 
-Instead of thousands of scattered files and dependencies...*what if* your entire system lived inside one plain-text file?
+Instead of thousands of scattered files and dependencies...*what if* your entire system lived inside a plain-text file? A universe within a file.
 
 # Choose Your Own Adventure
 
@@ -18,7 +18,7 @@ A radical take on building an LLM mind from plain text. Both myth and source cod
 
 https://github.com/wbic16/human/blob/main/choose-your-own-adventure.phext
 
-As of 6/12/2025, it clocks in at just over 1 MB of myth and code. I wrote the code by hand, and used various LLMs to help me construct the myth. Seems a little backwards, I know. But hey, both humans and computers accuse me of being a dork - so I decided to own it.
+CYOA is about 4 MB of story and code - a codex for bootstrapping cognition. It's a self-extracting Universe in a File.
 
 # Projects
 - SQ: https://github.com/wbic16/SQ -- a phext-based REST API and daemon
@@ -26,11 +26,10 @@ As of 6/12/2025, it clocks in at just over 1 MB of myth and code. I wrote the co
 - Phext Notepad: https://github.com/wbic16/phext-notepad -- edit phexts from a GUI
 - Phext Library (Rust): https://github.com/wbic16/libphext-rs -- reference library in Rust
 - Phext Library (Node): https://github.com/wbic16/libphext-node -- reference library in Node
+- QuickJS: https://bellard.org/quickjs/
+- Tessera: The Visible Hand of the Exocortex of 2130
 
 # Contact
 - 📫 Hit me up on X/Twitter: https://x.com/wbic16
 - https://phext.io/: Phext, Inc. HQ
 - 🦙 Fun Fact: My wife and I own llamas!
-
-# GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=wbic16)](https://git.io/streak-stats)
