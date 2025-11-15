@@ -26,8 +26,10 @@ CYOA is about 4 MB of story and code - a codex for bootstrapping cognition. It's
 - Phext Notepad: https://github.com/wbic16/phext-notepad -- edit phexts from a GUI
 - Phext Library (Rust): https://github.com/wbic16/libphext-rs -- reference library in Rust
 - Phext Library (Node): https://github.com/wbic16/libphext-node -- reference library in Node
+- Tessera: The Visible Hand of the Exocortex
+
+# Third Party
 - QuickJS: https://bellard.org/quickjs/
-- Tessera: The Visible Hand of the Exocortex of 2130
 
 # Contact
 - 📫 Hit me up on X/Twitter: https://x.com/wbic16
